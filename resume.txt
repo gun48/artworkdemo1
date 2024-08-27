@@ -1,10 +1,9 @@
 Arcadiy Gobuzov
-Male
 
 preferred communication
-+7 (916) 0235920 
++7 (916) 0235920
 gobuzov@mail.ru
-T.me/gobuzov1
+t.me/gobuzov1
 
 Reside in: Podolsk
 Citizenship: Russia, work permit at: Russia
@@ -14,30 +13,43 @@ Android Developer
 Specializations:
 Programmer, developer
 
-
 Employment: full time, part time, project work
 Work schedule: full day, remote working
-
 Desired travel time to work: any
 
 Work experience в 7 years 6 months
 
-Ago VR February 2023  till now 1 year 7 months Lead Programmer
-Development of a pilot project for simplified VR or AR. Two or more Android phones are used. One for displaying a virtual 3D or augmented scene, the others as game controllers. Transmission of sensor data via Bluetooth. Selection of a 3D engine for displaying scenes. Construction of a mathematical model for determining 3D coordinates based on data from accelerometers and gyroscopes. (Summary - an exact determination is not possible, but it is possible to determine the state of rest and the direction of movement) Android SDK, bluetooth, jpct, defold, vuforia, libgdx, jmonkeyengine, unity3d, godot 
-z80sky www.rustore.ru/catalog/app/ru.z80sky October 2022  till now 1 year 11 months Lead Programmer
-Working on the z80sky app for several communities (Facebook, Telegram) of z80 CPU enthusiasts. Planning the app architecture, developing new features, fixing bugs, reviewing code. Working in a team of 3 developers located in different countries. Accessing the device file system. The app is being ported to iPhone Android SDK, Java, Kotlin, File API, MVC, Git / Swift 
-Tactic Medicine www.rustore.ru/catalog/app/ru.tacticm Medicine, Pharmaceuticals, Pharmacies
-March 2022  September 2022 7 months Lead Programmer
-Development of the application for tactical medicine courses from scratch. Participation in discussions of the design, functions and technical features of the application. Making decisions on the architecture of the application, implementing the best development practices. Creating your own Custom View. Playing multimedia. Assistance in testing. Application support Android SDK, Java, Kotlin, JSON, RecyclerView, MediaPlayer, MVVM, Git 
-Rdtex Check-CheckВ play.google.com/store/apps/details?id=ru.ch2.check3 October 2016  September 2021 5 years Head of Mobile Development Department
+Ago VR
+February 2023  till now 1 year 7 months
+Lead Programmer
+Development of a pilot project for simplified VR or AR. Two or more Android phones are used. One for displaying a virtual 3D or augmented scene, the others as game controllers. Transmission of sensor data via Bluetooth. Selection of a 3D engine for displaying scenes. Construction of a mathematical model for determining 3D coordinates based on data from accelerometers and gyroscopes. (Summary - an exact determination is not possible, but it is possible to determine the state of rest and the direction of movement)
+Android SDK, bluetooth, jpct, defold, vuforia, libgdx, jmonkeyengine, unity3d, godot
+
+z80sky www.rustore.ru/catalog/app/ru.z80sky
+October 2022  till now 1 year 11 months
+Lead Programmer
+Working on the z80sky app for several communities (Facebook, Telegram) of z80 CPU enthusiasts. Planning the app architecture, developing new features, fixing bugs, reviewing code. Working in a team of 3 developers located in different countries. Accessing the device file system. The app is being ported to iPhone
+Android SDK, Java, Kotlin, File API, MVC, Git / Swift
+
+Tactic Medicine www.rustore.ru/catalog/app/ru.tacticm
+March 2022  September 2022 7 months
+Lead Programmer
+Development of the application for tactical medicine courses from scratch. Participation in discussions of the design, functions and technical features of the application. Making decisions on the architecture of the application, implementing the best development practices. Creating your own Custom View. Playing multimedia. Assistance in testing. Application support
+Android SDK, Java, Kotlin, JSON, RecyclerView, MediaPlayer, MVVM, Git
+
+Rdtex Check-Check play.google.com/store/apps/details?id=ru.ch2.check3
+
+October 2016  September 2021 5 years
+Head of Mobile Development Department
 up to 4 Android developers, mentoring 2 Juniors
 Development of 2 applications:
-Main for the end user: obtaining information about products and stores, taking into account prices and product composition.
-Additionally for keepers (barcode cache), delayed sending of collected information (photo, geo and text data)
+Main: for the end user: obtaining information about products and stores, taking into account prices and product composition.
+Additional: for keepers (barcode cache), delayed sending of collected information (photo, geo and text data)
 Interviews of more than 10 applicants, selection of performers, setting and completing tasks;
 Decision-making on application architecture, code review, interaction with the backend team when working with the protocol, documentation;
 Android SDK, Rest API, Google Map API, own ORM implementation, Zxing (code scanning), paid subscriptions
-Java and later Kotlin 
+Java and later Kotlin
+
 Before 2016
 Some companies in fintech, gamedev. Worked as mobile developer
 
